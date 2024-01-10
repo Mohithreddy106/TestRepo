@@ -1,3 +1,4 @@
 # TestRepo
 <br>
-Author - Mohith reddy
+Author - Mohith Reddy(NMREC College)  
+
